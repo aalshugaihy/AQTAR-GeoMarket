@@ -1,0 +1,9 @@
+{
+  "name": "AQTAR GeoMarket",
+  "description": "Geospatial & Surveying Market Intelligence Platform for Saudi Arabia, providing insights on demand, supply, and data coverage.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
